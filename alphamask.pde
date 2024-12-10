@@ -18,7 +18,7 @@ void setup() {
 }
 
 void draw() {
-  background(102, 153, 0);
+  background(153,102, 0);
   image(img, width/2, height/2);
   image(img, mouseX, mouseY);
 }
